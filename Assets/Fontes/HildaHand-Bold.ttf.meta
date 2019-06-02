@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9d42b3537de5e5a439267aaf30170402
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HildaHand
+  fontNames:
+  - HildaHand
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1b85535f30c90da4facac70d338888e9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
