@@ -1308,6 +1308,11 @@ PrefabInstance:
       propertyPath: m_RootOrder
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 21253588, guid: b61a2bb7df72ade4cacca6de862ce920, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 6d361f47ea3235a44b9e2c9aa92318a4,
+        type: 3}
     - target: {fileID: 11478222, guid: b61a2bb7df72ade4cacca6de862ce920, type: 3}
       propertyPath: ui
       value: 
@@ -1507,7 +1512,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 465402, guid: 386a20387f488ef4eb20a8b21ad100a3, type: 3}
       propertyPath: m_RootOrder
-      value: 5
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 465402, guid: 386a20387f488ef4eb20a8b21ad100a3, type: 3}
       propertyPath: m_LocalScale.x
@@ -1519,7 +1524,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: c1a008ccd107ef84f9ce663f811906b8, type: 2}
     - target: {fileID: 11457542, guid: 386a20387f488ef4eb20a8b21ad100a3, type: 3}
       propertyPath: trackSpeed
-      value: 0.9
+      value: 0.53
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 386a20387f488ef4eb20a8b21ad100a3, type: 3}
